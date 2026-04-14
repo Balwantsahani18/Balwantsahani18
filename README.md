@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-Balwantsahani18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balwantsahani18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/balwant-kumar-sahani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balwant-kumar-sahani/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BASK1NRLEQpOCz2UWYqYiNA%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.balwantsahani18@gmail.com)
 
 </div>
